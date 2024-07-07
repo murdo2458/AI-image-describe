@@ -67,6 +67,6 @@ export const classifyImage = async (file: File) => {
 
     // stream the response
 
-    return OpenAIStream(completion);
+    return OpenAIStream(completion); //need to make this work
 
 };
