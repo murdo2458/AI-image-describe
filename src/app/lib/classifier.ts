@@ -36,7 +36,7 @@ export const classifyImage = async (file: File) => {
                 content: [
                     {
                         type: "text",
-                        text: "What is the calories, protein and fat content of this meal? Please just list these things without any other response.",
+                        text: "What is the calories, protein and fat content of this meal? Please just list these things without any other response. I know you can't determine based on an image, but please mate a best guest and list the calories protein and fat content.",
                     },
 
                     {
