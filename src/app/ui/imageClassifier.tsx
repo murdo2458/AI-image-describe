@@ -93,7 +93,7 @@ export default function ImageClassifier() {
 
                 <div className="w-full p-6 bg-white bg-opacity-10 rounded-lg shadow-xl overflow-y-auto max-h-64">
                     {submitted ? (
-                        <p className="text-center text-xl">Analyzing your meal...</p>
+                        <p className="text-center text-xl">Analysing your meal...</p>
                     ) : (
                         response.split('\n').map((line, index) => (
                             <p key={index} className="text-lg mb-2">{line}</p>
