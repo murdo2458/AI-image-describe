@@ -70,7 +70,7 @@ export default function ImageClassifier() {
                 <div className="flex flex-col items-center w-full mb-8">
                     <label htmlFor="file-upload" className="mb-6 cursor-pointer">
                         <span className="bg-white text-black font-bold py-3 px-6 rounded-full transition duration-300 hover:bg-gray-200">
-                            Analyze Meal
+                            Analyse Meal
                         </span>
                         <input
                             id="file-upload"
