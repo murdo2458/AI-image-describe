@@ -63,8 +63,8 @@ export default function ImageClassifier() {
         <div className="flex flex-col items-center justify-center min-h-screen bg-gradient-to-br from-purple-900 via-indigo-800 to-black text-white p-4">
             <div className="w-full max-w-4xl flex flex-col items-center justify-between h-full">
                 <div className="text-center mb-12">
-                    <h1 className="text-5xl font-bold mb-4">Calorie AI</h1>
-                    <p className="text-xl text-gray-300">Forget the scales, just snap a photo of your meal and we&apos;ll tell you how many calories is in it. Powered by OpenAI.</p>
+                    <h1 className="text-5xl font-bold mb-4">Nutrition AI</h1>
+                    <p className="text-xl text-gray-300">Forget the scales, just snap a photo of your meal and we&apos;ll tell you the nutritional value. Powered by OpenAI.</p>
                 </div>
 
                 <div className="flex flex-col items-center w-full mb-8">
